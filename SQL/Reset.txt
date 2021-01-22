@@ -1,0 +1,9 @@
+//Reset Auto Increment
+
+SET @num := 0;
+UPDATE umum SET no = @num := (@num+1);
+ALTER TABLE umum AUTO_INCREMENT =1;
+
+SET @num := 0;
+UPDATE pengguna SET kode_rfid = @num := (@num+1);
+ALTER TABLE pengguna AUTO_INCREMENT =1;
