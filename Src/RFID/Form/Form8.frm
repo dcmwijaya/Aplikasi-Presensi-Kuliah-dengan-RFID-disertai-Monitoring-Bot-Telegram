@@ -2,7 +2,7 @@ VERSION 5.00
 Begin VB.Form Form8 
    BackColor       =   &H80000003&
    BorderStyle     =   1  'Fixed Single
-   Caption         =   "Program RFID Absensi Bot Pintar"
+   Caption         =   "[Mata Kuliah Metodologi Penelitian] Aplikasi RFID Presensi Bot Pintar"
    ClientHeight    =   6900
    ClientLeft      =   45
    ClientTop       =   690
@@ -95,7 +95,7 @@ Begin VB.Form Form8
    Begin VB.Label Label1 
       Alignment       =   2  'Center
       BackStyle       =   0  'Transparent
-      Caption         =   "PROGRAM RFID ABSENSI BOT PINTAR"
+      Caption         =   "APLIKASI RFID PRESENSI BOT PINTAR"
       BeginProperty Font 
          Name            =   "Arial Black"
          Size            =   18
@@ -107,10 +107,10 @@ Begin VB.Form Form8
       EndProperty
       ForeColor       =   &H00C00000&
       Height          =   1095
-      Left            =   1440
+      Left            =   1200
       TabIndex        =   0
       Top             =   600
-      Width           =   4455
+      Width           =   4935
    End
    Begin VB.Menu Btm 
       Caption         =   "Back To Menu"
