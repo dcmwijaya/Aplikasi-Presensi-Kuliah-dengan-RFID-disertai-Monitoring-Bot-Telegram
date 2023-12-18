@@ -7,10 +7,11 @@ Begin VB.Form Form1
    ClientLeft      =   45
    ClientTop       =   390
    ClientWidth     =   7245
+   Icon            =   "Form1.frx":0000
    LinkTopic       =   "Form1"
    MaxButton       =   0   'False
    MinButton       =   0   'False
-   Picture         =   "Form1.frx":0000
+   Picture         =   "Form1.frx":10CA
    ScaleHeight     =   6900
    ScaleWidth      =   7245
    StartUpPosition =   1  'CenterOwner
@@ -28,7 +29,7 @@ Begin VB.Form Form1
       EndProperty
       Height          =   855
       Left            =   3840
-      Picture         =   "Form1.frx":284B2
+      Picture         =   "Form1.frx":2957C
       Style           =   1  'Graphical
       TabIndex        =   4
       Top             =   5280
@@ -49,7 +50,7 @@ Begin VB.Form Form1
       EndProperty
       Height          =   855
       Left            =   1200
-      Picture         =   "Form1.frx":2BA68
+      Picture         =   "Form1.frx":2CB32
       Style           =   1  'Graphical
       TabIndex        =   3
       Top             =   5280
@@ -57,9 +58,9 @@ Begin VB.Form Form1
    End
    Begin VB.ComboBox Combo1 
       Height          =   330
-      ItemData        =   "Form1.frx":2F0C4
+      ItemData        =   "Form1.frx":3018E
       Left            =   1200
-      List            =   "Form1.frx":2F0E0
+      List            =   "Form1.frx":301AA
       TabIndex        =   2
       Text            =   "------------------------ Silakan Pilih Mata Kuliah ------------------------"
       Top             =   2880

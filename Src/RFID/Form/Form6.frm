@@ -7,10 +7,11 @@ Begin VB.Form Form6
    ClientLeft      =   45
    ClientTop       =   690
    ClientWidth     =   7245
+   Icon            =   "Form6.frx":0000
    LinkTopic       =   "Form6"
    MaxButton       =   0   'False
    MinButton       =   0   'False
-   Picture         =   "Form6.frx":0000
+   Picture         =   "Form6.frx":10CA
    ScaleHeight     =   6900
    ScaleWidth      =   7245
    StartUpPosition =   1  'CenterOwner
@@ -28,7 +29,7 @@ Begin VB.Form Form6
       EndProperty
       Height          =   735
       Left            =   5160
-      Picture         =   "Form6.frx":284B2
+      Picture         =   "Form6.frx":2957C
       Style           =   1  'Graphical
       TabIndex        =   3
       Top             =   5640
