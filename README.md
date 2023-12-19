@@ -33,8 +33,8 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 
 ## Get Started
 1. Go to the site: ``` https://www.freemysqlhosting.net/ ``` -> ``` Register for an account ``` -> ``` Login ```.<br><br>
-2. Import sql file in the directory: ``` Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram\Assets\database\rfid_bot.sql ```.<br><br>
-3. Download & Extract this repository.<br><br>
+2. Download & Extract this repository.<br><br>
+3. Import sql file in the directory: ``` Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram\Assets\database\rfid_bot.sql ```.<br><br>
 4. Open the directory: ``` Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram\Src\RFID\Aplikasi RFID Presensi Bot Pintar.vbp ```, then find the modules section, please click ``` Module2 (Module2.bas) ```.<br><br>
 5. Fill in the ``` dbName ```, ``` dbUser ```, ``` password ``` sections according to your SQL Cloud.<br><br>
    <img alt="module2" src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/0ae00f80-3f3f-4327-88f6-521a2a6c486a"><br><br>
