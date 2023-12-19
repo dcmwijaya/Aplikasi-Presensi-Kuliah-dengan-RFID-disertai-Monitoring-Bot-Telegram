@@ -113,6 +113,16 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 
 <br><br>
 
+## Reminder
+Disadvantages:
+1. The database error control in the VB 6 application is still not working properly (there are still bugs in it).
+
+2. The SQL Cloud used is fairly free, so there are many limitations (not free in practice).
+
+3. Still constrained in the presence data loop, so that the data entered is only the initial index.
+
+<br><br>
+
 ## Demonstration of Application
 Via Telegram: <a href="http://t.me/simonsen_bot">@simonsen_bot</a>
 
