@@ -39,12 +39,3 @@ const markup = lumpia.markup;
 // Pewaktuan
 let date = new Date();
 let waktu = Utilities.formatDate(date, 'Asia/Jakarta', 'yyyy/MM/dd , HH:mm:ss');
-
-
-// Database configuration
-let server = 'sql12.freemysqlhosting.net';
-let port = '3306';
-let dbName = "DB_NAME";
-let dbUser = "DB_USER";
-let dbPassword = "PASSWORD";
-let url = 'jdbc:mysql://'+server+':'+port+'/'+dbName;
