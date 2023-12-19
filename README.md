@@ -82,24 +82,24 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 ## Highlights
 <table>
 <tr>
-<th width="840"></th>
+<th></th>
 </tr>
 <tr>
-<td><img src="" alt="IMG-1"></td>
-<td><img src="" alt="IMG-2"></td>
-<td><img src="" alt="IMG-3"></td>
-<td><img src="" alt="IMG-4"></td>
+<td width="210"><img src="" alt="IMG-1"></td>
+<td width="210"><img src="" alt="IMG-2"></td>
+<td width="210"><img src="" alt="IMG-3"></td>
+<td width="210"><img src="" alt="IMG-4"></td>
 </tr>
 </table>
 <table>
 <tr>
-<th width="840"></th>
+<th></th>
 </tr>
 <tr>
-<td><img src="" alt="IMG-5"></td>
-<td><img src="" alt="IMG-6"></td>
-<td><img src="" alt="IMG-7"></td>
-<td><img src="" alt="IMG-8"></td>
+<td width="210"><img src="" alt="IMG-5"></td>
+<td width="210"><img src="" alt="IMG-6"></td>
+<td width="210"><img src="" alt="IMG-7"></td>
+<td width="210"><img src="" alt="IMG-8"></td>
 </tr>
 </table>
 
