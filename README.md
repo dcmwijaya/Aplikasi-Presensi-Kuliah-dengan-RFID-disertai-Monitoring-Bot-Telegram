@@ -59,7 +59,7 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 10. Paste the ``` API bot token telegram ``` that you have obtained from ``` @BotFather ``` as follows :
     ```bash
     // Token API
-    const token = '1264610746:AAF3HuLDWCPKIGcinRY5Uf-qTpsWWw_jN0K';
+    const token = '6402342255:AAGF8UBcj7mPyaE8Fv_6rFlhIOc8Np1od3I';
     ```
     <br>
    
