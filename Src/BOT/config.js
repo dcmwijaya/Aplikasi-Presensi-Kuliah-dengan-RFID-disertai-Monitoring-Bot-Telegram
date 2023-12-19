@@ -42,7 +42,9 @@ let waktu = Utilities.formatDate(date, 'Asia/Jakarta', 'yyyy/MM/dd , HH:mm:ss');
 
 
 // Database configuration
-let userDB = 'root';
-let password = 'test1234';
-let connName = 'YOUR CONNECTION SUB NAME';
-let url = 'jdbc:google:mysql://'+connName;
+let server = 'sql12.freemysqlhosting.net';
+let port = '3306';
+let dbName = "DB_NAME";
+let dbUser = "DB_USER";
+let dbPassword = "PASSWORD";
+let url = 'jdbc:mysql://'+server+':'+port+'/'+dbName;
