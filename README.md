@@ -29,7 +29,6 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
    ```
    https://bit.ly/Installer_MS_VB6
    ```
-<br>
 
 2. MySQL Connector (ODBC)
 
@@ -40,13 +39,14 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 <br><br>
 
 ## Get Started
-1. Download this repository.<br>
-2. Extract the file.<br>
-3. Open the directory ``` Application-College-Presence-with-RFID-accompanied-Monitoring-Bot-Telegram/Src/RFID/Application RFID Presence Bot Pintar.vbp ```, then find the modules section, please click ``` Module3 (Module3.bas) ```.<br>
-4. Fill in the ``` Telegram ID and Username ``` sections.<br><br>
-   <img width="960" alt="image" src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/9cc11417-f11a-43e8-a54d-a9ef7f65ed06"><br><br>
-   The addition of this data is done manually, so if there are more than 2 users then the source code needs to be adjusted again.
-5. Then open ``` Module2 (Module2.bas) ```, then fill in the ``` dbName ```, ``` dbUser ```, ``` password ``` sections according to your SQL Cloud.<br>
+1. Download this repository.<br><br>
+2. Extract the file.<br><br>
+3. Open the directory ``` Application-College-Presence-with-RFID-accompanied-Monitoring-Bot-Telegram/Src/RFID/Application RFID Presence Bot Pintar.vbp ```, then find the modules section, please click ``` Module3 (Module3.bas) ```.<br><br>
+4. Then open ``` Module2 (Module2.bas) ```, then fill in the ``` dbName ```, ``` dbUser ```, ``` password ``` sections according to your SQL Cloud.<br><br>
+   <img alt="module2" src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/0ae00f80-3f3f-4327-88f6-521a2a6c486a"><br><br>
+5. Fill in the ``` Telegram ID and Username ``` sections.<br><br>
+   <img alt="module3" src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/9cc11417-f11a-43e8-a54d-a9ef7f65ed06"><br>
+   The addition of this data is done manually, so if there are more than 2 users then the source code needs to be adjusted again.<br><br>
 6. 
 7. Please enjoy [Done].
 
