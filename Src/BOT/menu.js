@@ -38,7 +38,8 @@ bot.on('message', ctx => {
     let SQ = cs.executeQuery(qs);
     let metaData = SQ.getMetaData();
     let column = metaData.getColumnCount();
-      
+
+    // Jika data ditemukan, maka tampilkan melalui chatbot
     if(SQ != null){  
       // Pemanggilan data query
       for(i=1; i<=column; i++){
@@ -64,6 +65,7 @@ bot.on('message', ctx => {
       }
     }
 
+    // Jika data tidak ditemukan, maka tampilkan melalui chatbot
     if(SQ != id){
       // Pesan
       let msg = '🙋‍♂️️<b>[ Preview Absensi ]</b>💁‍♂️\n\nData tidak ditemukan (kosong), silakan melakukan absensi terlebih dahulu menggunakan RFID Card!';
