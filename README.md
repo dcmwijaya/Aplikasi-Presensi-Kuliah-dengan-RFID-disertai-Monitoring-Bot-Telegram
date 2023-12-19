@@ -77,7 +77,7 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 ## Highlights
 <table>
 <tr>
-<th></th>
+<th colspan="4">RFID</th>
 </tr>
 <tr>
 <td width="210"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/3104d093-1a5f-4446-9332-924c9b3779de" alt="IMG-1"></td>
@@ -85,16 +85,29 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 <td width="210"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/7d123e05-c220-4a24-b61f-c235481bdd33" alt="IMG-3"></td>
 <td width="210"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/2200fb7e-a5ba-4a53-8d52-1661494cbda7" alt="IMG-4"></td>
 </tr>
+<tr>
+<td width="210"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/52bb9edd-12c0-403f-abcc-ced57387cb71" alt="IMG-5"></td>
+<td width="210"><img src="" alt="IMG-6"></td>
+<td width="210"><img src="" alt="IMG-7"></td>
+<td width="210"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/7a96db25-64a0-4fa8-84b8-39e0ca80030b" alt="IMG-8"></td>
+</tr>
 </table>
 <table>
 <tr>
-<th></th>
+<th colspan="2">Database</th>
 </tr>
 <tr>
-<td width="210"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/52bb9edd-12c0-403f-abcc-ced57387cb71" alt="IMG-5"></td>
-<td width="210"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/1e3f5202-fd3a-4b1a-8d3a-881b3b97d377" alt="IMG-6"></td>
-<td width="210"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/898a4826-4935-488e-87f1-e7dd8b70198a" alt="IMG-7"></td>
-<td width="210"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/7a96db25-64a0-4fa8-84b8-39e0ca80030b" alt="IMG-8"></td>
+<td width="420"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/1e3f5202-fd3a-4b1a-8d3a-881b3b97d377" alt="IMG-7"></td>
+<td width="420"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/898a4826-4935-488e-87f1-e7dd8b70198a" alt="IMG-8"></td>
+</tr>
+</table>
+<table>
+<tr>
+<th colspan="2">Telegram Bot</th>
+</tr>
+<tr>
+<td width="420"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/1870ec0a-051e-41f5-bcb6-3b9354b68021" alt="IMG-9"></td>
+<td width="420"><img src="" alt="IMG-10"></td>
 </tr>
 </table>
 
