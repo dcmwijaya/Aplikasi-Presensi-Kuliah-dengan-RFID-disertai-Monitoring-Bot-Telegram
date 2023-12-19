@@ -2,7 +2,7 @@ VERSION 5.00
 Begin VB.Form Form2 
    BackColor       =   &H80000003&
    BorderStyle     =   1  'Fixed Single
-   Caption         =   "[Mata Kuliah Pemrograman Api] Aplikasi RFID Presensi Bot Pintar"
+   Caption         =   "[Mata Kuliah Pemrograman Api] Aplikasi Presensi Kuliah Dengan RFID"
    ClientHeight    =   6900
    ClientLeft      =   45
    ClientTop       =   690
@@ -96,7 +96,7 @@ Begin VB.Form Form2
    Begin VB.Label Label1 
       Alignment       =   2  'Center
       BackStyle       =   0  'Transparent
-      Caption         =   "APLIKASI RFID PRESENSI BOT PINTAR"
+      Caption         =   "APLIKASI PRESENSI KULIAH DENGAN RFID"
       BeginProperty Font 
          Name            =   "Arial Black"
          Size            =   18

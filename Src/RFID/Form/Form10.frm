@@ -2,7 +2,7 @@ VERSION 5.00
 Begin VB.Form Form10 
    BackColor       =   &H80000003&
    BorderStyle     =   1  'Fixed Single
-   Caption         =   "[Pendaftaran Akun] Aplikasi RFID Presensi Bot Pintar"
+   Caption         =   "[Pendaftaran Akun] Aplikasi Presensi Kuliah Dengan RFID"
    ClientHeight    =   6900
    ClientLeft      =   45
    ClientTop       =   690
@@ -137,7 +137,7 @@ Begin VB.Form Form10
    Begin VB.Label Label1 
       Alignment       =   2  'Center
       BackStyle       =   0  'Transparent
-      Caption         =   "APLIKASI RFID PRESENSI BOT PINTAR"
+      Caption         =   "APLIKASI PRESENSI KULIAH DENGAN RFID"
       BeginProperty Font 
          Name            =   "Arial Black"
          Size            =   18
@@ -183,7 +183,6 @@ Private Sub Form_Load()
 
 ErrKoneksi:
     MsgBox "Koneksi database Error.. " & vbCrLf & Err.Description & Err.Number, vbCritical, "Error Koneksi Database"
-    Exit Sub
 End Sub
 
 
