@@ -29,6 +29,7 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
    ```
    https://bit.ly/Installer_MS_VB6
    ```
+   <br>
 
 2. MySQL Connector (ODBC)
 
