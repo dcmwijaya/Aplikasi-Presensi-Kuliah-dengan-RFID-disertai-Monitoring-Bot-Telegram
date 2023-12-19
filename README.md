@@ -113,6 +113,16 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 
 <br><br>
 
+## Demonstration of Application
+Via Telegram: <a href="http://t.me/simonsen_bot">@simonsen_bot</a>
+
+<br><br>
+
+## Disclaimer
+This application has been created by including third-party sources. Third parties here are service providers, whose services are in the form of libraries, frameworks, and others. I thank you very much for the service. It has proven to be very helpful and implementable.
+
+<br><br>
+
 ## LICENSE
 MIT License - Copyright (c) 2020 - Devan Cakra Mudra Wijaya
 
