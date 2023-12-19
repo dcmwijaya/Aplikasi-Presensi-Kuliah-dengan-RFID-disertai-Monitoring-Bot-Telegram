@@ -30,7 +30,7 @@ bot.on('message', ctx => {
     let menu = '📈 Data Absensi'; pvmsg += '\n📁 Akses menu : '+menu+'\n\n---------------------------------------------------------';
 
     // Database connection
-    let conn = Jdbc.getConnection(url,dbUser,password);
+    let conn = Jdbc.getCloudSqlConnection(url, userDB, password);
     let cs = conn.createStatement();
 
     // Query select
