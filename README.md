@@ -53,14 +53,14 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 8. Add ``` new file ``` on the platform ``` Google apps script ``` and regarding ``` file name ``` or ``` number of files ``` can be different according to your own creation, because this will not affect the performance of the bot system -> then don't forget to click ``` Save ```.<br><br>
 9. Open the directory: ``` Application-College-Presence-with-RFID-accompanied-Monitoring-Bot-Telegram\Src\BOT\ ``` -> Copy & paste the entire contents into the file available on the platform ``` Google apps script ```.<br><br>
 10. Enter the ``` Library ID ``` in the ``` Library ``` section:
-   ```bash
-   1Yo6vQRwjG5Gl9jeEF0g2tBTUa0XN5MyT4G_HeDpRr9DvabxhRcSdhPNj
-   ```
-   <br>
+    ```
+    1Yo6vQRwjG5Gl9jeEF0g2tBTUa0XN5MyT4G_HeDpRr9DvabxhRcSdhPNj
+    ```
+    <br>
    
 11. Add ``` the library ``` -> Always select ``` the highest version of the library ``` -> Save.<br><br>
 12. Paste the ``` API bot token telegram ``` that you have obtained from ``` @BotFather ``` as follows :
-    ```bash
+    ```
     // Token API
     const token = '6402342255:AAGF8UBcj7mPyaE8Fv_6rFlhIOc8Np1od3I';
     ```
@@ -70,7 +70,7 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 14. Contents ``` Description ``` -> In the ``` Access ``` section, please select the section: ``` anyone can access ``` -> Apply.<br><br>
 15. Review permissions -> Select ``` your email ``` -> Continue -> Open ``` your bot project (not secure) ``` -> Allow.<br><br>
 16. Copy the ``` web app URL link ``` -> Paste the link into the ``` let url ``` section in ``` config.gs ``` as follows:
-    ```bash
+    ```
     let url = 'https://api.telegram.org/bot1164101112:AA1BC1DI/setwebhook?url=https://script.google.com/macros/s/AKfycbyKodePanjang/exec';
     ```
     <br>
