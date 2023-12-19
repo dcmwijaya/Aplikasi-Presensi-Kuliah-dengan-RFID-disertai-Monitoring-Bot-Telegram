@@ -15,7 +15,7 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 | --- | --- |
 | Features | Custom Keyboard, Error Handling, User Log Activity, Attendance Data Monitoring, & Auto Input Data |
 | Platform | Google Apps Script & Freemysqlhosting |
-| Tools | Microsoft Visual Basic 6.0 Enterprise & MySQL Connector (ODBC) |
+| Tools | Microsoft Visual Basic 6.0 Enterprise |
 | Function VB 6 | keybd_event & Sleep |
 | Framework | Lumpia.js |
 | Code | JavaScript, Visual Basic 6 |
@@ -23,18 +23,10 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 
 <br><br>
 
-## Download & Install 
-1. Visual Basic 6.0 Enterprise
+## Download & Install Visual Basic 6.0 Enterprise
 
    ```
    https://bit.ly/Installer_MS_VB6
-   ```
-   <br>
-
-2. MySQL Connector (ODBC)
-
-   ```
-   https://dev.mysql.com/downloads/connector/odbc/
    ```
 
 <br><br>
