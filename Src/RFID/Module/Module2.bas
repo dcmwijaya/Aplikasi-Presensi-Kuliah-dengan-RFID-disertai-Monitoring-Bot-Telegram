@@ -19,13 +19,6 @@ Sub Conn()
     password = "YOUR DATABASE PASSWORD"
     port = "3306"
     
-    '////////////// LOCAL //////////////
-    'server = "localhost"
-    'dbName = "rfid_bot"
-    'dbUser = "root"
-    'password = ""
-    'port = "3306"
-    
     CN.Open "Driver={MySQL ODBC 8.0 ANSI Driver};Server=" & server _
         & ";Port=" & port & ";Database=" & dbName & ";User=" & dbUser & ";Password=" _
         & password & ";Option=3;"
