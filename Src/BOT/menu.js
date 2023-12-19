@@ -34,7 +34,7 @@ bot.on('message', ctx => {
     let cs = conn.createStatement();
 
     // Query select
-    let qs = 'SELECT * FROM umum WHERE umum.id_telegram='+id+';';
+    let qs = 'SELECT * FROM umum WHERE umum.id_telegram='+user_id+';';
     let SQ = cs.executeQuery(qs);
     let metaData = SQ.getMetaData();
     let column = metaData.getColumnCount();
