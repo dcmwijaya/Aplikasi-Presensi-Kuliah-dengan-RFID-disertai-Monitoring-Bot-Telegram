@@ -97,8 +97,8 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 <th colspan="2">Database</th>
 </tr>
 <tr>
-<td width="420"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/1e3f5202-fd3a-4b1a-8d3a-881b3b97d377" alt="IMG-7"></td>
-<td width="420"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/898a4826-4935-488e-87f1-e7dd8b70198a" alt="IMG-8"></td>
+<td width="420"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/333ed844-cfdd-4284-b330-480b47decb3a" alt="IMG-7"></td>
+<td width="420"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/8cc38d9a-fb57-4149-a77d-877134657ad3" alt="IMG-8"></td>
 </tr>
 </table>
 <table>
