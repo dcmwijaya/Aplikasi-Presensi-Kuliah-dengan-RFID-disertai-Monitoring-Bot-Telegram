@@ -13,11 +13,11 @@ Sub Conn()
     Dim port As Integer
     
     '////////////// HOSTING //////////////
-    server = "YOUR CLOUD SQL"
+    server = "sql12.freemysqlhosting.net"
+    port = "3306"
     dbName = "YOUR DATABASE NAME"
     dbUser = "YOUR DATABASE USERNAME"
     password = "YOUR DATABASE PASSWORD"
-    port = "3306"
     
     CN.Open "Driver={MySQL ODBC 8.0 ANSI Driver};Server=" & server _
         & ";Port=" & port & ";Database=" & dbName & ";User=" & dbUser & ";Password=" _
