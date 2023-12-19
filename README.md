@@ -33,9 +33,9 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 
 ## Get Started
 1. Go to the site: ``` https://www.freemysqlhosting.net/ ``` -> ``` Register for an account ``` -> ``` Login ```.<br><br>
-2. Import sql file in the directory: ``` Aplikasi-Kampus-Kehadiran-dengan-RFID-disertai-Pemantauan-Bot-Telegram\Assets\database\rfid_bot.sql ```.<br><br>
+2. Import sql file in the directory: ``` Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram\Assets\database\rfid_bot.sql ```.<br><br>
 3. Download & Extract this repository.<br><br>
-4. Open the directory: ``` Application-College-Presence-with-RFID-accompanied-Monitoring-Bot-Telegram\Src\RFID\Application RFID Presence Bot Pintar.vbp ```, then find the modules section, please click ``` Module2 (Module2.bas) ```.<br><br>
+4. Open the directory: ``` Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram\Src\RFID\Aplikasi RFID Presensi Bot Pintar.vbp ```, then find the modules section, please click ``` Module2 (Module2.bas) ```.<br><br>
 5. Fill in the ``` dbName ```, ``` dbUser ```, ``` password ``` sections according to your SQL Cloud.<br><br>
    <img alt="module2" src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/0ae00f80-3f3f-4327-88f6-521a2a6c486a"><br><br>
 6. Open ``` Module3 (Module3.bas) ```, then fill in the ``` Telegram ID and Username ``` sections.<br><br>
@@ -43,7 +43,7 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
    The addition of this data is done manually, so if there are more than 2 users then the source code needs to be adjusted again.<br><br>
 7. Create a new project first on the platform: ``` Google apps script ```.<br><br>
 8. Add ``` new file ``` on the platform ``` Google apps script ``` and regarding ``` file name ``` or ``` number of files ``` can be different according to your own creation, because this will not affect the performance of the bot system -> then don't forget to click ``` Save ```.<br><br>
-9. Open the directory: ``` Application-College-Presence-with-RFID-accompanied-Monitoring-Bot-Telegram\Src\BOT\ ``` -> Copy & paste the entire contents into the file available on the platform ``` Google apps script ```.<br><br>
+9. Open the directory: ``` Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram\Src\BOT\ ``` -> Copy & paste the entire contents into the file available on the platform ``` Google apps script ```.<br><br>
 10. Enter the ``` Library ID ``` in the ``` Library ``` section:
     ```
     1Yo6vQRwjG5Gl9jeEF0g2tBTUa0XN5MyT4G_HeDpRr9DvabxhRcSdhPNj
