@@ -38,8 +38,8 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 4. Open the directory: ``` Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram\Src\RFID\Aplikasi RFID Presensi Bot Pintar.vbp ```, then find the modules section, please click ``` Module2 (Module2.bas) ```.<br><br>
 5. Fill in the ``` dbName ```, ``` dbUser ```, ``` password ``` sections according to your SQL Cloud.<br><br>
    <img alt="module2" src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/0ae00f80-3f3f-4327-88f6-521a2a6c486a"><br><br>
-6. Open ``` Module3 (Module3.bas) ```, then fill in the ``` Telegram ID and Username ``` sections.<br><br>
-   <img alt="module3" src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/9cc11417-f11a-43e8-a54d-a9ef7f65ed06"><br><br>
+6. Open ``` Module3 (Module3.bas) ```, then fill in the ``` RFID Card Code ```, ``` Telegram ID ```, and ``` Telegram Username ``` sections.<br><br>
+   <img alt="module3" src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/bf9e97a7-86a0-49eb-88de-972cc4b141cd"><br><br>
    The addition of this data is done manually, so if there are more than 2 users then the source code needs to be adjusted again.<br><br>
 7. Create a new project first on the platform: ``` Google apps script ```.<br><br>
 8. Add ``` new file ``` on the platform ``` Google apps script ``` and regarding ``` file name ``` or ``` number of files ``` can be different according to your own creation, because this will not affect the performance of the bot system -> then don't forget to click ``` Save ```.<br><br>
@@ -106,8 +106,8 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 <th colspan="2">Telegram Bot</th>
 </tr>
 <tr>
-<td width="420"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/1870ec0a-051e-41f5-bcb6-3b9354b68021" alt="IMG-9"></td>
-<td width="420"><img src="" alt="IMG-10"></td>
+<td width="420"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/4ac71c3c-a94b-4507-bbfc-b850435c1778" alt="IMG-9"></td>
+<td width="420"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/19ff29ef-98ac-4dbb-92ef-e0af958416ba" alt="IMG-10"></td>
 </tr>
 </table>
 
