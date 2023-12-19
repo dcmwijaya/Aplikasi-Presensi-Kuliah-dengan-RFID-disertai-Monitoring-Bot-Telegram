@@ -80,10 +80,10 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 <th></th>
 </tr>
 <tr>
-<td width="210"><img src="" alt="IMG-1"></td>
-<td width="210"><img src="" alt="IMG-2"></td>
-<td width="210"><img src="" alt="IMG-3"></td>
-<td width="210"><img src="" alt="IMG-4"></td>
+<td width="210"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/3104d093-1a5f-4446-9332-924c9b3779de" alt="IMG-1"></td>
+<td width="210"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/59ec6b59-c0e1-42fa-80da-0924518c6e7d" alt="IMG-2"></td>
+<td width="210"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/7d123e05-c220-4a24-b61f-c235481bdd33" alt="IMG-3"></td>
+<td width="210"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/2200fb7e-a5ba-4a53-8d52-1661494cbda7" alt="IMG-4"></td>
 </tr>
 </table>
 <table>
@@ -91,7 +91,7 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 <th></th>
 </tr>
 <tr>
-<td width="210"><img src="" alt="IMG-5"></td>
+<td width="210"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/52bb9edd-12c0-403f-abcc-ced57387cb71" alt="IMG-5"></td>
 <td width="210"><img src="" alt="IMG-6"></td>
 <td width="210"><img src="" alt="IMG-7"></td>
 <td width="210"><img src="" alt="IMG-8"></td>
