@@ -39,16 +39,43 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 <br><br>
 
 ## Get Started
-1. Download this repository.<br><br>
-2. Extract the file.<br><br>
-3. Open the directory ``` Application-College-Presence-with-RFID-accompanied-Monitoring-Bot-Telegram/Src/RFID/Application RFID Presence Bot Pintar.vbp ```, then find the modules section, please click ``` Module2 (Module2.bas) ```.<br><br>
-4. Fill in the ``` dbName ```, ``` dbUser ```, ``` password ``` sections according to your SQL Cloud.<br><br>
+1. Download & Extract this repository.<br><br>
+2. Open the directory: ``` Application-College-Presence-with-RFID-accompanied-Monitoring-Bot-Telegram/Src/RFID/Application RFID Presence Bot Pintar.vbp ```, then find the modules section, please click ``` Module2 (Module2.bas) ```.<br><br>
+3. Fill in the ``` dbName ```, ``` dbUser ```, ``` password ``` sections according to your SQL Cloud.<br><br>
    <img alt="module2" src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/0ae00f80-3f3f-4327-88f6-521a2a6c486a"><br><br>
-5. Open ``` Module3 (Module3.bas) ```, then fill in the ``` Telegram ID and Username ``` sections.<br><br>
+4. Open ``` Module3 (Module3.bas) ```, then fill in the ``` Telegram ID and Username ``` sections.<br><br>
    <img alt="module3" src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/9cc11417-f11a-43e8-a54d-a9ef7f65ed06"><br>
    The addition of this data is done manually, so if there are more than 2 users then the source code needs to be adjusted again.<br><br>
-6. 
-7. Please enjoy [Done].
+5. Create a new project first on the platform: ``` Google apps script ```.<br><br>
+6. Add ``` new file ``` on the platform ``` Google apps script ``` and regarding ``` file name ``` or ``` number of files ``` can be different according to your own creation, because this will not affect the performance of the bot system -> then don't forget to click ``` Save ```.<br><br>
+7. Open the directory: ``` Application-College-Presence-with-RFID-accompanied-Monitoring-Bot-Telegram/Src/BOT/ -> Copy & paste the entire contents into the file available on the platform ``` Google apps script ```.<br><br>
+8. Enter the ``` Library ID ``` in the ``` Library ``` section:
+   ```bash
+   1Yo6vQRwjG5Gl9jeEF0g2tBTUa0XN5MyT4G_HeDpRr9DvabxhRcSdhPNj
+   ```
+   <br>
+   
+9. Add ``` the library ``` -> Always select ``` the highest version of the library ``` -> Save.<br><br>
+10. Paste the ``` API bot token telegram ``` that you have obtained from ``` @BotFather ``` as follows :
+    ```bash
+    // Token API
+    const token = '1264610746:AAF3HuLDWCPKIGcinRY5Uf-qTpsWWw_jN0K';
+    ```
+    <br>
+   
+11. Click ``` Apply ``` -> ``` New deployment ``` -> Select type: ``` Web Application ```.<br><br>
+12. Contents ``` Description ``` -> In the ``` Access ``` section, please select the section: ``` anyone can access ``` -> Apply.<br><br>
+13. Review permissions -> Select ``` your email ``` -> Continue -> Open ``` your bot project (not secure) ``` -> Allow.<br><br>
+14. Copy the ``` web app URL link ``` -> Paste the link into the ``` let url ``` section in ``` config.gs ``` as follows:
+    ```bash
+    let url = 'https://api.telegram.org/bot1164101112:AA1BC1DI/setwebhook?url=https://script.google.com/macros/s/AKfycbyKodePanjang/exec';
+    ```
+    <br>
+
+15. Make sure the function being executed is ``` setWebHook ``` -> Click ``` Run ```.
+
+    Will be considered successful if the ``` execution log ``` reads: ``` Info {ok=true, description=Webhook is already set, result=true} ```.<br><br>
+16. Please enjoy [Done].
 
 <br><br>
 
