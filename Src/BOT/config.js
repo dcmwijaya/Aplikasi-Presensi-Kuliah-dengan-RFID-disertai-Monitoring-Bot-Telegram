@@ -25,8 +25,7 @@ lumpia.verbose = false;
 
 
 // Chat id admin bot
-const admin_bot1 = 'CHAT ID USER TELEGRAM 1';
-const admin_bot2 = 'CHAT ID USER TELEGRAM 2';
+const admin_bot = 'CHAT ID USER TELEGRAM';
 
 
 // Username bot
@@ -35,9 +34,6 @@ const username_bot = 'simonsen_bot';
 
 // Keyboard
 const markup = lumpia.markup;
-let custom_Keyboard = [
-  ['📈 Data Absensi']
-];
 
 
 // Pewaktuan
@@ -52,5 +48,3 @@ var dbUser = "DB_USER";
 var password = "PASSWORD";
 var port = '3306';
 var url = 'jdbc:mysql://'+server+':'+port+'/'+dbName;
-var conn = Jdbc.getConnection(url,dbUser,password);
-var cs = conn.createStatement();
