@@ -74,17 +74,6 @@ bot.on('message', ctx => {
       // Output yang dikirim oleh bot
       ctx.tg.sendMessage(admin_bot, pvmsg, {'parse_mode': 'HTML'}) & ctx.replyWithHTML(msg);
     }
-
-    if(conn != ''){
-      // Pesan
-      let msg = '⛔ <b>[ Error ]</b> Database tidak tersambung!';
-
-      // Delay
-      Utilities.sleep(20);
-      
-      // Output yang dikirim oleh bot
-      ctx.tg.sendMessage(admin_bot, pvmsg, {'parse_mode': 'HTML'}) & ctx.replyWithHTML(msg);
-    }
   }
   else { // Control handling menu
     ctx.replyWithHTML('⛔ <b>[ Error ]</b> Menu tidak tersedia!');
