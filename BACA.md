@@ -37,7 +37,7 @@ ChatBot berbasis Telegram ini dibangun di atas platform ``` Google App Scripts `
 4. Buka direktori: ``` Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram\Src\RFID\Aplikasi RFID Presensi Bot Pintar.vbp ```, kemudian cari bagian module, silakan klik ``` Module2 (Module2.bas) ```.<br><br>
 5. Isi bagian ``` dbName ```, ``` dbUser ```, ``` password ``` sesuai dengan SQL Cloud Anda.<br><br>
    <img alt="module2" src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/0ae00f80-3f3f-4327-88f6-521a2a6c486a"><br><br>
-6. Buka ``` Module3 (Module3.bas) ```, lalu isi bagian ``` RFID Card Code ```, ``` Telegram ID ```, dan ``` Telegram Username ```.<br><br>
+6. Buka ``` Module3 (Module3.bas) ```, lalu isi bagian ``` Kode Kartu RFID ```, ``` ID Telegram ```, dan ``` Nama pengguna Telegram ```.<br><br>
    <img alt="module3" src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/bf9e97a7-86a0-49eb-88de-972cc4b141cd"><br><br>
    Penambahan data ini dilakukan secara manual, sehingga jika ada lebih dari 2 pengguna maka kode sumber perlu disesuaikan lagi.<br><br>
 7. Buat proyek baru terlebih dahulu di platform: ``` Google apps script ```.<br><br>
