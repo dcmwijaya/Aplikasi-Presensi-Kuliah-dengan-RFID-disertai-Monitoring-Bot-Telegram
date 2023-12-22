@@ -5,7 +5,7 @@
 ![VB6](https://img.shields.io/badge/Visual%20Basic%206-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
 
 # Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram
-<strong>Final Project 3 API Programming Class</strong><br>
+<strong>3rd Final Project in API Programming</strong><br><br>
 This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform using ``` Javascript ``` as the programming language. The framework used is <b><a href="https://lumpia.js.org/">Lumpia.js</a></b>. The purpose of this bot is to monitor lecture attendance data. While this RFID application is made by programmers to be able to help someone in filling the college attendance quickly and precisely. This RFID application is built with ``` Visual Basic 6 ``` programming language.
 
 <br><br>
