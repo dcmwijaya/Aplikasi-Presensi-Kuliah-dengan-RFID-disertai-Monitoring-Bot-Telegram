@@ -5,7 +5,7 @@
 ![VB6](https://img.shields.io/badge/Visual%20Basic%206-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
 
 # Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram
-<strong>Tugas Akhir 3 Kelas Pemrograman API</strong><br>
+<strong>Tugas Akhir ke-3 dalam Pemrograman API</strong><br><br>
 ChatBot berbasis Telegram ini dibangun di atas platform ``` Google App Scripts ``` dengan menggunakan bahasa pemrograman ``` Javascript ```. Framework yang digunakan adalah <b><a href="https://lumpia.js.org/">Lumpia.js</a></b>. Tujuan dari bot ini adalah untuk memonitoring data kehadiran kuliah. Sedangkan aplikasi RFID ini dibuat oleh programmer untuk dapat membantu seseorang dalam mengisi presensi kuliah dengan cepat dan tepat. Aplikasi RFID ini dibangun dengan bahasa pemrograman ``` Visual Basic 6 ```.
 <br><br>
 
