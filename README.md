@@ -10,7 +10,7 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 
 <br><br>
 
-## Features / Framework / Tools
+## Project Requirements
 | Part | Description |
 | --- | --- |
 | Features | Custom Keyboard, Error Handling, User Log Activity, Attendance Data Monitoring, & Auto Input Data |
