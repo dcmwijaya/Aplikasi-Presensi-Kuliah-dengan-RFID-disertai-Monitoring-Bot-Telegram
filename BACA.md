@@ -9,7 +9,7 @@
 ChatBot berbasis Telegram ini dibangun di atas platform ``` Google App Scripts ``` dengan menggunakan bahasa pemrograman ``` Javascript ```. Framework yang digunakan adalah <b><a href="https://lumpia.js.org/">Lumpia.js</a></b>. Tujuan dari bot ini adalah untuk memonitoring data kehadiran kuliah. Sedangkan aplikasi RFID ini dibuat oleh programmer untuk dapat membantu seseorang dalam mengisi presensi kuliah dengan cepat dan tepat. Aplikasi RFID ini dibangun dengan bahasa pemrograman ``` Visual Basic 6 ```.
 <br><br>
 
-## Fitur / Kerangka Kerja / Peralatan
+## Kebutuhan Proyek
 | Bagian | Deskripsi |
 | --- | --- |
 | Fitur | Keyboard Khusus, Pengendalian Masalah, Aktivitas Catatan Pengguna, Pemantauan Data Kehadiran, & Input Data Otomatis |
