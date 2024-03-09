@@ -25,9 +25,13 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 
 ## Download & Install Visual Basic 6.0 Enterprise
 
-   ```
-   https://bit.ly/Installer_MS_VB6
-   ```
+<table><tr><td width="840">
+  
+```
+https://bit.ly/Installer_MS_VB6
+```
+
+</td></tr></table>
 
 <br><br>
 
@@ -45,32 +49,41 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 8. Add ``` new file ``` on the platform ``` Google apps script ``` and regarding ``` file name ``` or ``` number of files ``` can be different according to your own creation, because this will not affect the performance of the bot system -> then don't forget to click ``` Save ```.<br><br>
 9. Open the directory: ``` Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram\Src\BOT\ ``` -> Copy & paste the entire contents into the file available on the platform ``` Google apps script ```.<br><br>
 10. Enter the ``` Library ID ``` in the ``` Library ``` section:
+    <table><tr><td width="810">
+       
     ```
     1Yo6vQRwjG5Gl9jeEF0g2tBTUa0XN5MyT4G_HeDpRr9DvabxhRcSdhPNj
     ```
-    <br>
+
+    </td></tr></table><br>
    
 11. Add ``` the library ``` -> Always select ``` the highest version of the library ``` -> Save.<br><br>
 12. Paste the ``` API bot token telegram ``` that you have obtained from ``` @BotFather ``` as follows :
+    <table><tr><td width="810">
+       
     ```
     // Token API
     const token = '6402342255:AAGF8UBcj7mPyaE8Fv_6rFlhIOc8Np1od3I';
     ```
-    <br>
+    
+    </td></tr></table><br>
    
 13. Click ``` Apply ``` -> ``` New deployment ``` -> Select type: ``` Web Application ```.<br><br>
 14. Contents ``` Description ``` -> In the ``` Access ``` section, please select the section: ``` anyone can access ``` -> Apply.<br><br>
 15. Review permissions -> Select ``` your email ``` -> Continue -> Open ``` your bot project (not secure) ``` -> Allow.<br><br>
 16. Copy the ``` web app URL link ``` -> Paste the link into the ``` let url ``` section in ``` config.gs ``` as follows:
+    <table><tr><td width="810">
+       
     ```
     let url = 'https://api.telegram.org/bot1164101112:AA1BC1DI/setwebhook?url=https://script.google.com/macros/s/AKfycbyKodePanjang/exec';
     ```
-    <br>
 
-17. Make sure the function being executed is ``` setWebHook ``` -> Click ``` Run ```.
+    </td></tr></table><br>
+
+18. Make sure the function being executed is ``` setWebHook ``` -> Click ``` Run ```.
 
     Will be considered successful if the ``` execution log ``` reads: ``` Info {ok=true, description=Webhook is already set, result=true} ```.<br><br>
-18. Please enjoy [Done].
+19. Please enjoy [Done].
 
 <br><br>
 
@@ -114,12 +127,16 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 <br><br>
 
 ## Reminder
-Disadvantages:
+<table><tr><td width="840">
+<strong>Disadvantages:</strong>
+
 1. The database error control in the VB 6 application is still not working properly (there are still bugs in it).
 
 2. The SQL Cloud used is fairly free, so there are many limitations (not free in practice).
 
 3. Still constrained in the presence data loop, so that the data entered is only the initial index.
+
+</td></tr></table>
 
 <br><br>
 
