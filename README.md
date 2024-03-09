@@ -37,9 +37,9 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 3. Import sql file in the directory: ``` Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram\Assets\database\rfid_bot.sql ```.<br><br>
 4. Open the directory: ``` Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram\Src\RFID\Aplikasi RFID Presensi Bot Pintar.vbp ```, then find the modules section, please click ``` Module2 (Module2.bas) ```.<br><br>
 5. Fill in the ``` dbName ```, ``` dbUser ```, ``` password ``` sections according to your SQL Cloud.<br><br>
-   <img alt="module2" src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/0ae00f80-3f3f-4327-88f6-521a2a6c486a"><br><br>
+   <img width="810" alt="module2" src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/0ae00f80-3f3f-4327-88f6-521a2a6c486a"><br><br>
 6. Open ``` Module3 (Module3.bas) ```, then fill in the ``` RFID Card Code ```, ``` Telegram ID ```, and ``` Telegram Username ``` sections.<br><br>
-   <img alt="module3" src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/bf9e97a7-86a0-49eb-88de-972cc4b141cd"><br><br>
+   <img width="810" alt="module3" src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/bf9e97a7-86a0-49eb-88de-972cc4b141cd"><br><br>
    The addition of this data is done manually, so if there are more than 2 users then the source code needs to be adjusted again.<br><br>
 7. Create a new project first on the platform: ``` Google apps script ```.<br><br>
 8. Add ``` new file ``` on the platform ``` Google apps script ``` and regarding ``` file name ``` or ``` number of files ``` can be different according to your own creation, because this will not affect the performance of the bot system -> then don't forget to click ``` Save ```.<br><br>
@@ -125,6 +125,11 @@ Disadvantages:
 
 ## Demonstration of Application
 Via Telegram: <a href="http://t.me/simonsen_bot">@simonsen_bot</a>
+
+<br><br>
+
+## Appreciation
+If you find this work useful, please support it as a token of appreciation to the author by clicking the ``` ⭐Star ``` button.
 
 <br><br>
 
