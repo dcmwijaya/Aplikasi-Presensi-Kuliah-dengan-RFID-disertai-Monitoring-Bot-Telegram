@@ -129,11 +129,11 @@ https://bit.ly/Installer_MS_VB6
 <table><tr><td width="840">
 <strong>Kekurangan:</strong>
 
-1. Kontrol error basis data pada aplikasi VB 6 masih belum bekerja dengan baik (masih terdapat bug di dalamnya).
+1. Kontrol error basis data pada aplikasi VB 6 masih belum bekerja dengan baik (masih ada bug di dalamnya).
 
 2. SQL Cloud yang digunakan tergolong gratis, jadi ada banyak keterbatasan (tidak leluasa dalam praktiknya).
 
-3. Masih terkendala pada bagian perulangan data kehadiran, sehingga data yang dimasukkan hanya indeks awal saja.
+3. Masih terkendala di bagian perulangan data kehadiran, sehingga data yang dimasukkan hanya indeks awal saja.
 
 </td></tr></table>
 
