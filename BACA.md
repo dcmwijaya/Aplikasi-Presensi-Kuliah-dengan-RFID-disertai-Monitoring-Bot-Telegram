@@ -7,6 +7,7 @@
 # Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram
 <strong>Tugas Akhir ke-3 dalam Pemrograman API</strong><br><br>
 ChatBot berbasis Telegram ini dibangun di atas platform ``` Google App Scripts ``` dengan menggunakan bahasa pemrograman ``` Javascript ```. Framework yang digunakan adalah <b><a href="https://lumpia.js.org/">Lumpia.js</a></b>. Tujuan dari bot ini adalah untuk memonitoring data kehadiran kuliah. Sedangkan aplikasi RFID ini dibuat oleh programmer untuk dapat membantu seseorang dalam mengisi presensi kuliah dengan cepat dan tepat. Aplikasi RFID ini dibangun dengan bahasa pemrograman ``` Visual Basic 6 ```.
+
 <br><br>
 
 ## Kebutuhan Proyek
@@ -23,10 +24,13 @@ ChatBot berbasis Telegram ini dibangun di atas platform ``` Google App Scripts `
 <br><br>
 
 ## Unduh & Instal Visual Basic 6.0 Enterprise
+<table><tr><td width="840">
+  
+```
+https://bit.ly/Installer_MS_VB6
+```
 
-   ```
-   https://bit.ly/Installer_MS_VB6
-   ```
+</td></tr></table>
 
 <br><br>
 
@@ -44,27 +48,36 @@ ChatBot berbasis Telegram ini dibangun di atas platform ``` Google App Scripts `
 8. Tambahkan ``` file baru ``` pada platform ``` Google apps script ``` dan terkait ``` nama file ``` atau ``` jumlah file ``` boleh beda sesuai kreasi masing-masing, sebab hal ini tidak akan memengaruhi kinerja sistem bot -> lalu jangan lupa untuk klik ``` Simpan ```.<br><br>
 9. Buka direktori: ``` Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram\Src\BOT\ ``` -> Salin & tempelkan seluruh isinya ke dalam file yang telah tersedia di platform ``` Google apps script ```.<br><br>
 10. Masukkan ``` ID Pustaka ``` di bagian ``` Library ``` :
-    ```
+    <table><tr><td width="810">
+       
+    ```js
     1Yo6vQRwjG5Gl9jeEF0g2tBTUa0XN5MyT4G_HeDpRr9DvabxhRcSdhPNj
     ```
-    <br>
+
+    </td></tr></table><br>
    
 11. Tambahkan ``` pustaka tersebut ``` -> Selalu pilih ``` versi pustaka yang tertinggi ``` -> Simpan.<br><br>
 12. Tempelkan ``` Api bot token telegram ``` yang telah anda peroleh dari ``` @BotFather ``` seperti berikut ini :
-    ```
+    <table><tr><td width="810">
+       
+    ```js
     // Token API
     const token = '6402342255:AAGF8UBcj7mPyaE8Fv_6rFlhIOc8Np1od3I';
     ```
-    <br>
+    
+    </td></tr></table><br>
    
 13. Klik ``` Terapkan ``` -> ``` Deployment baru ``` -> Pilih jenis: ``` Aplikasi Web ```.<br><br>
 14. Isi ``` Deskripsi ``` -> Pada bagian ``` Akses ```, silahkan pilih bagian: ``` siapa saja dapat mengakses ``` -> Terapkan.<br><br>
 15. Meninjau izin -> Pilih ``` email anda ``` -> Lanjutkan -> Buka ``` proyek bot anda (tidak aman) ``` -> Izinkan.<br><br>
 16. Salin ``` link web app URL ``` -> Tempelkan link tersebut pada bagian ``` let url ``` yang ada di ``` config.gs ``` seperti berikut :
-    ```
+    <table><tr><td width="810">
+       
+    ```js
     let url = 'https://api.telegram.org/bot1164101112:AA1BC1DI/setwebhook?url=https://script.google.com/macros/s/AKfycbyKodePanjang/exec';
     ```
-    <br>
+
+    </td></tr></table><br>
 
 17. Pastikan fungsi yang sedang dijalankan adalah ``` setWebHook ``` -> Klik ``` Jalankan ```.
 
