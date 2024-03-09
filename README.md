@@ -24,7 +24,6 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 <br><br>
 
 ## Download & Install Visual Basic 6.0 Enterprise
-
 <table><tr><td width="840">
   
 ```
