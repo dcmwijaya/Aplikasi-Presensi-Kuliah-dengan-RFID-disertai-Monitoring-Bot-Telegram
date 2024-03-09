@@ -50,7 +50,7 @@ https://bit.ly/Installer_MS_VB6
 10. Enter the ``` Library ID ``` in the ``` Library ``` section:
     <table><tr><td width="810">
        
-    ```
+    ```js
     1Yo6vQRwjG5Gl9jeEF0g2tBTUa0XN5MyT4G_HeDpRr9DvabxhRcSdhPNj
     ```
 
@@ -60,7 +60,7 @@ https://bit.ly/Installer_MS_VB6
 12. Paste the ``` API bot token telegram ``` that you have obtained from ``` @BotFather ``` as follows :
     <table><tr><td width="810">
        
-    ```
+    ```js
     // Token API
     const token = '6402342255:AAGF8UBcj7mPyaE8Fv_6rFlhIOc8Np1od3I';
     ```
@@ -73,7 +73,7 @@ https://bit.ly/Installer_MS_VB6
 16. Copy the ``` web app URL link ``` -> Paste the link into the ``` let url ``` section in ``` config.gs ``` as follows:
     <table><tr><td width="810">
        
-    ```
+    ```js
     let url = 'https://api.telegram.org/bot1164101112:AA1BC1DI/setwebhook?url=https://script.google.com/macros/s/AKfycbyKodePanjang/exec';
     ```
 
