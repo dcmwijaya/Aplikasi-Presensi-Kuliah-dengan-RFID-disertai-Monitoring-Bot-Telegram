@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram)
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
-![VB6](https://img.shields.io/badge/Visual%20Basic%206-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
+![VB6](https://img.shields.io/badge/6%20programming-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
 
 # Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram
 <strong>3rd Final Project in API Programming</strong><br><br>
@@ -145,7 +145,7 @@ Via Telegram: <a href="http://t.me/simonsen_bot">@simonsen_bot</a>
 <br><br>
 
 ## Appreciation
-If you find this work useful, please support it as a token of appreciation to the author by clicking the ``` ⭐Star ``` button.
+If this work is useful to you, then support this work as a form of appreciation to the author by clicking the ``` ⭐Star ``` button at the top of the repository.
 
 <br><br>
 
