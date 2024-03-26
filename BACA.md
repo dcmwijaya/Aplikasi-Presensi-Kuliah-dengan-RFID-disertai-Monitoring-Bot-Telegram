@@ -13,7 +13,7 @@ ChatBot berbasis Telegram ini dibangun di atas platform ``` Google App Scripts `
 ## Kebutuhan Proyek
 | Bagian | Deskripsi |
 | --- | --- |
-| Fitur | Keyboard Khusus, Pengendalian Masalah, Aktivitas Catatan Pengguna, Pemantauan Data Kehadiran, & Input Data Otomatis |
+| Fitur | Keyboard Balasan, Pengendalian Masalah, Aktivitas Catatan Pengguna, Pemantauan Data Kehadiran, & Input Data Otomatis |
 | Platform | Google Apps Script & Freemysqlhosting |
 | Peralatan | Microsoft Visual Basic 6.0 Enterprise |
 | Function VB 6 | keybd_event & Sleep |
