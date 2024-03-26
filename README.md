@@ -13,7 +13,7 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 ## Project Requirements
 | Part | Description |
 | --- | --- |
-| Features | Custom Keyboard, Error Handling, User Log Activity, Attendance Data Monitoring, & Auto Input Data |
+| Features | Reply Keyboard, Error Handling, User Log Activity, Attendance Data Monitoring, & Auto Input Data |
 | Platform | Google Apps Script & Freemysqlhosting |
 | Tools | Microsoft Visual Basic 6.0 Enterprise |
 | Function VB 6 | keybd_event & Sleep |
