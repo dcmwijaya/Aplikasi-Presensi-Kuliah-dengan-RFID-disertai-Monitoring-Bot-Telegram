@@ -27,7 +27,7 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 <table><tr><td width="840">
   
 ```
-https://bit.ly/Installer_MS_VB6
+https://bit.ly/VisualBasic6_Installer
 ```
 
 </td></tr></table>
