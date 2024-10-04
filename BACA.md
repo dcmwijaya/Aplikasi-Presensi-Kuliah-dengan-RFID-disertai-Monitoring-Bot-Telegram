@@ -1,8 +1,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram)
-![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
-![VB6](https://img.shields.io/badge/6%20programming-%2340099C.svg?&style=flat&logo=visualbasic&logoColor=white)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![Project](https://img.shields.io/badge/Project-Multi-%2DPlatform-light.svg?style=flat&logo=googlechrome&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Campus%20Assignment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram
 <strong>Tugas Akhir ke-3 dalam Pemrograman API</strong><br><br>
@@ -40,9 +40,9 @@ https://bit.ly/VisualBasic6_Installer
 3. Impor file sql yang ada di direktori: ``` Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram\Assets\database\rfid_bot.sql ```.<br><br>
 4. Buka direktori: ``` Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram\Src\RFID\Aplikasi RFID Presensi Bot Pintar.vbp ```, kemudian cari bagian module, silakan klik ``` Module2 (Module2.bas) ```.<br><br>
 5. Isi bagian ``` dbName ```, ``` dbUser ```, ``` password ``` sesuai dengan SQL Cloud anda.<br><br>
-   <img width="810" alt="module2" src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/0ae00f80-3f3f-4327-88f6-521a2a6c486a"><br><br>
+   <img width="810" src="Assets/documentation/Database Connection.jpg" alt="db-connection"><br><br>
 6. Buka ``` Module3 (Module3.bas) ```, lalu isi bagian ``` Kode Kartu RFID ```, ``` ID Telegram ```, dan ``` Nama pengguna Telegram ```.<br><br>
-   <img width="810" alt="module3" src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/bf9e97a7-86a0-49eb-88de-972cc4b141cd"><br><br>
+   <img width="810" src="Assets/documentation/Member Account.jpg" alt="member-account"><br><br>
    Penambahan data ini dilakukan secara manual, sehingga jika ada lebih dari 2 pengguna maka kode sumber perlu disesuaikan lagi.<br><br>
 7. Buat proyek baru terlebih dahulu di platform: ``` Google apps script ```.<br><br>
 8. Tambahkan ``` file baru ``` pada platform ``` Google apps script ``` dan terkait ``` nama file ``` atau ``` jumlah file ``` boleh beda sesuai kreasi masing-masing, sebab hal ini tidak akan memengaruhi kinerja sistem bot -> lalu jangan lupa untuk klik ``` Simpan ```.<br><br>
@@ -92,16 +92,16 @@ https://bit.ly/VisualBasic6_Installer
 <th colspan="4">RFID</th>
 </tr>
 <tr>
-<td width="210"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/3104d093-1a5f-4446-9332-924c9b3779de" alt="IMG-1"></td>
-<td width="210"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/59ec6b59-c0e1-42fa-80da-0924518c6e7d" alt="IMG-2"></td>
-<td width="210"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/7d123e05-c220-4a24-b61f-c235481bdd33" alt="IMG-3"></td>
-<td width="210"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/2200fb7e-a5ba-4a53-8d52-1661494cbda7" alt="IMG-4"></td>
+<td width="210"><img src="Assets/documentation/RFID View-1.jpg" alt="rfid-1"></td>
+<td width="210"><img src="Assets/documentation/RFID View-2.jpg" alt="rfid-2"></td>
+<td width="210"><img src="Assets/documentation/RFID View-3.jpg" alt="rfid-3"></td>
+<td width="210"><img src="Assets/documentation/RFID View-4.jpg" alt="rfid-4"></td>
 </tr>
 <tr>
-<td width="210"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/52bb9edd-12c0-403f-abcc-ced57387cb71" alt="IMG-5"></td>
-<td width="210"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/d8e0d62d-35a9-4903-94b3-a17f39e300a3" alt="IMG-6"></td>
-<td width="210"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/a740dfc4-6aa7-46a5-8fe4-4cef930e826d" alt="IMG-7"></td>
-<td width="210"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/7a96db25-64a0-4fa8-84b8-39e0ca80030b" alt="IMG-8"></td>
+<td width="210"><img src="Assets/documentation/RFID View-5.jpg" alt="rfid-5"></td>
+<td width="210"><img src="Assets/documentation/RFID View-6.jpg" alt="rfid-6"></td>
+<td width="210"><img src="Assets/documentation/RFID View-7.jpg" alt="rfid-7"></td>
+<td width="210"><img src="Assets/documentation/RFID View-8.jpg" alt="rfid-8"></td>
 </tr>
 </table>
 <table>
@@ -109,8 +109,8 @@ https://bit.ly/VisualBasic6_Installer
 <th colspan="2">Basis Data</th>
 </tr>
 <tr>
-<td width="420"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/333ed844-cfdd-4284-b330-480b47decb3a" alt="IMG-7"></td>
-<td width="420"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/8cc38d9a-fb57-4149-a77d-877134657ad3" alt="IMG-8"></td>
+<td width="210"><img src="Assets/documentation/Database View-1.jpg" alt="db-1"></td>
+<td width="210"><img src="Assets/documentation/Database View-2.jpg" alt="db-2"></td>
 </tr>
 </table>
 <table>
@@ -118,8 +118,8 @@ https://bit.ly/VisualBasic6_Installer
 <th colspan="2">Bot Telegram</th>
 </tr>
 <tr>
-<td width="420"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/4ac71c3c-a94b-4507-bbfc-b850435c1778" alt="IMG-9"></td>
-<td width="420"><img src="https://github.com/devancakra/Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram/assets/54527592/19ff29ef-98ac-4dbb-92ef-e0af958416ba" alt="IMG-10"></td>
+<td width="420"><img src="Assets/documentation/Telegram Bot View-1.jpg" alt="telegram-bot-1"></td>
+<td width="420"><img src="Assets/documentation/Telegram Bot View-2.jpg" alt="telegram-bot-2"></td>
 </tr>
 </table>
 
@@ -150,12 +150,12 @@ Jika karya ini bermanfaat bagi anda, maka dukunglah karya ini sebagai bentuk apr
 <br><br>
 
 ## Penafian
-Aplikasi ini dibuat dengan menyertakan sumber-sumber dari pihak ketiga. Pihak ketiga di sini adalah penyedia layanan, yang layanannya berupa pustaka, kerangka kerja, dan lain-lain. Saya ucapkan terima kasih banyak atas layanannya. Telah terbukti sangat membantu dan dapat diimplementasikan.
+Aplikasi ini merupakan hasil karya saya sendiri dan bukan merupakan hasil plagiat dari penelitian atau karya orang lain, kecuali yang berkaitan dengan layanan pihak ketiga yang meliputi: pustaka, kerangka kerja, dan lain sebagainya.
 
 <br><br>
 
 ## LISENSI 
-LISENSI MIT - Hak Cipta © 2020 - Devan Cakra Mudra Wijaya
+LISENSI MIT - Hak Cipta © 2020 - Devan C. M. Wijaya
 
 Dengan ini diberikan izin tanpa biaya kepada siapa pun yang mendapatkan salinan perangkat lunak ini dan file dokumentasi terkait perangkat lunak untuk menggunakannya tanpa batasan, termasuk namun tidak terbatas pada hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, mempublikasikan, mendistribusikan, mensublisensikan, dan/atau menjual salinan Perangkat Lunak ini, dan mengizinkan orang yang menerima Perangkat Lunak ini untuk dilengkapi dengan persyaratan berikut:
 
