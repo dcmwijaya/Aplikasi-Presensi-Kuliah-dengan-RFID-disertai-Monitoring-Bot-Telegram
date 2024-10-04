@@ -109,8 +109,8 @@ https://bit.ly/VisualBasic6_Installer
 <th colspan="2">Database</th>
 </tr>
 <tr>
-<td width="210"><img src="Assets/documentation/Database View-1.jpg" alt="db-1"></td>
-<td width="210"><img src="Assets/documentation/Database View-2.jpg" alt="db-2"></td>
+<td width="420"><img src="Assets/documentation/Database View-1.jpg" alt="db-1"></td>
+<td width="420"><img src="Assets/documentation/Database View-2.jpg" alt="db-2"></td>
 </tr>
 </table>
 <table>
