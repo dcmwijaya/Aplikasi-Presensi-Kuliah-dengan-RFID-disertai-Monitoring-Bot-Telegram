@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Multi-%2DPlatform-light.svg?style=flat&logo=googlechrome&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Campus%20Assignment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# Aplikasi-Presensi-Kuliah-dengan-RFID-disertai-Monitoring-Bot-Telegram
+# Aplikasi Presensi Kuliah dengan RFID disertai Monitoring Bot Telegram
 <strong>3rd Final Project in API Programming</strong><br><br>
 This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform using ``` Javascript ``` as the programming language. The framework used is <b><a href="https://lumpia.js.org/">Lumpia.js</a></b>. The purpose of this bot is to monitor lecture attendance data. While this RFID application is made by programmers to be able to help someone in filling the college attendance quickly and precisely. This RFID application is built with ``` Visual Basic 6 ``` programming language.
 
